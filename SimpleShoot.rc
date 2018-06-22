@@ -1,0 +1,14 @@
+#include <windows.h>
+
+
+MAIN_ICON	ICON	DISCARDABLE	"Resource/SimpleShoot.ico"
+
+
+START_WAVE	WAVE	DISCARDABLE	"Resource/Start.wav"
+SHOOT_WAVE	WAVE	DISCARDABLE	"Resource/Shoot.wav"
+KILLEDE1_WAVE	WAVE	DISCARDABLE	"Resource/KilledE1.wav"
+ENDING_WAVE	WAVE	DISCARDABLE	"Resource/Ending.wav"
+PAUSE_WAVE	WAVE	DISCARDABLE	"Resource/Pause.wav"
+TITLE_MIDI	MIDI	DISCARDABLE	"Resource/Title.mid"
+STAGE1_MIDI	MIDI	DISCARDABLE	"Resource/Stage1.mid"
+ENDING_MIDI	MIDI	DISCARDABLE	"Resource/Ending.mid"
